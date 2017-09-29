@@ -23,7 +23,7 @@ This application is a sample for Elasticsearch client with [Spark Java](http://s
 ## Soruce code clone
 git clone https://github.com/junglestory/elasticsearch-spark-java.git
 <pre><code>
-$ cd elasticsearch-spark-java.js
+$ cd elasticsearch-spark-java
 </code></pre>
 
 ## Configuration
