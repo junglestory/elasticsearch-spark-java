@@ -14,7 +14,7 @@ This is a sample for Elasticsearch client with [spark java](http://sparkjava.com
 * [Download](https://www.elastic.co/downloads/elasticsearch) and unzip the Elasticsearch official distribution.
 * Run bin\elasticsearch
 * Run curl -X GET http://localhost:9200/
-* [Sampe data](https://github.com/junglestory/elasticsearch-sample-books.git)
+* [Sampe data](https://github.com/junglestory/scrape_blog_crawler)
 
 ## Soruce code clone
 git clone https://github.com/junglestory/elasticsearch-spark-java.git
