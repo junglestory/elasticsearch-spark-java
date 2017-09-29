@@ -1,5 +1,14 @@
 # elasticsearch-spark-java
-This is a sample for Elasticsearch clien with spark java.
+This is a sample for Elasticsearch client with [spark java](http://sparkjava.com).
+
+## Features
+* MultiMatchQuery
+* Hightlight
+* Date Range
+* Filter
+* Sort
+* Aggregation
+* Paginated
 
 ## Installation
 * [Download](https://www.elastic.co/downloads/elasticsearch) and unzip the Elasticsearch official distribution.
@@ -12,3 +21,6 @@ git clone https://github.com/junglestory/elasticsearch-spark-java.git
 <pre><code>
 $ cd elasticsearch-spark-java.js
 </code></pre>
+
+## Run
+http://localhost:4567/search
